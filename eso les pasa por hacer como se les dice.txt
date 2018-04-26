@@ -6,4 +6,12 @@ dfgsfd
 =======
 fdg ergtr erg 
 >>>>>>> 53cc9a182baded1a0f52bb795ae72c35c2f6137f
+<<<<<<< HEAD
 >>>>>>> bb87a6f74787169741a8865e9dcfefcd5f8e78b9
+=======
+
+ESTO FUE ESCRITO POR DIEGO
+>>>>>>> 12847c4183b18dd631cef753a57c14d4fb666fe7
+
+
+esto fue escrito por carlos
