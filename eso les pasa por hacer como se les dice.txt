@@ -1,1 +1,9 @@
+<<<<<<< HEAD
  que diced ve Jose
+=======
+<<<<<<< HEAD
+dfgsfd
+=======
+fdg ergtr erg 
+>>>>>>> 53cc9a182baded1a0f52bb795ae72c35c2f6137f
+>>>>>>> bb87a6f74787169741a8865e9dcfefcd5f8e78b9
