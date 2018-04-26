@@ -11,7 +11,19 @@ fdg ergtr erg
 =======
 
 ESTO FUE ESCRITO POR DIEGO
+<<<<<<< HEAD
 >>>>>>> 12847c4183b18dd631cef753a57c14d4fb666fe7
 
 
 esto fue escrito por carlos
+=======
+
+
+
+>>>>>>>>>>>>>>>>>
+me vale mijinn ajajajaj
+>>>>>>> d3393e02340170b99884f200549ea6c1b2b5eb5e
+
+
+
+que estan peleando
